@@ -1,0 +1,17 @@
+export const memories = [
+  { "src": "/images/memory-01.jpeg", "w": 1080, "h": 1920 },
+  { "src": "/images/memory-02.jpeg", "w": 1024, "h": 1280 },
+  { "src": "/images/memory-03.jpeg", "w": 1080, "h": 1440 },
+  { "src": "/images/memory-04.jpeg", "w": 1080, "h": 1920 },
+  { "src": "/images/memory-05.jpeg", "w": 1023, "h": 1537 },
+  { "src": "/images/memory-06.jpeg", "w": 899,  "h": 1599 },
+  { "src": "/images/memory-07.jpeg", "w": 899,  "h": 1599 },
+  { "src": "/images/memory-11.jpeg", "w": 720,  "h": 720  },
+  { "src": "/images/memory-13.jpeg", "w": 720,  "h": 1280 },
+  { "src": "/images/memory-15.jpeg", "w": 899,  "h": 1599 },
+  { "src": "/images/memory-20.jpeg", "w": 899,  "h": 1599 },
+  { "src": "/images/memory-26.jpeg", "w": 720,  "h": 1280 },
+  { "src": "/images/memory-31.jpeg", "w": 1280, "h": 1280 },
+  { "src": "/images/memory-35.jpeg", "w": 1280, "h": 1280 },
+  { "src": "/images/memory-40.jpeg", "w": 960,  "h": 1280 },
+];
